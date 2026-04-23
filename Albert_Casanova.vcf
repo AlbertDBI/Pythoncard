@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Casanova;Albert;;;
+FN:Albert Casanova
+ORG:AlbertDBI
+TITLE:Tu cargo
+TEL;TYPE=CELL:+34 6XX XXX XXX
+EMAIL;TYPE=INTERNET:albert@ejemplo.com
+URL:https://tuwebsite.com
+END:VCARD
